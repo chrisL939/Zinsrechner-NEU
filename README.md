@@ -1,5 +1,3 @@
-# Zinsrechner-NEU
-
 # Flet Zinsrechner (Compound Interest Calculator)
 
 [![Flet App](https://img.shields.io/badge/Made%20with-Flet-blue.svg)](https://flet.dev)
